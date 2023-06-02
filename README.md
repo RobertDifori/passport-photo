@@ -12,7 +12,7 @@
 ## Nowdays
 
 * At present, I'm working on creating an open-source iteration of the PhotoGov service, geared towards producing ID photos compliant with any document requirements globally. I extend an invitation to other coders and AI enthusiasts to collaborate on developing a more encompassing neural network that can cater to a broader spectrum of ID specifications.
-## Nowdays
+## Get Involved
 * As we witness the growing infusion of AI across multiple sectors, we are on the cusp of a thrilling new age. One where intelligent automation can effectively substitute manual labor in numerous industries. The future is bright, and with collaborative minds, there's no limit to the possibilities that AI can unfold.
 
 ## Thank you!
